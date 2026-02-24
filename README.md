@@ -36,4 +36,4 @@
 ### 📬 Contact
 - **Email:** sadkop00@gmail.com
 - **Phone:** 010-2835-7421
-- **Notion:** [바로가기]([https://www.notion.so/2ea797f7fd0b8079b9d3d9f03c5867f4])
+- **Notion:** [https://www.notion.so/2ea797f7fd0b8079b9d3d9f03c5867f4](https://www.notion.so/2ea797f7fd0b8079b9d3d9f03c5867f4)
