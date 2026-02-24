@@ -32,8 +32,8 @@
 - **High-Performance API:** FastAPI (Asynchronous high-performance API for AI model serving)
 - **Data Analytics:** Pandas (Data Preprocessing & EDA)
 - **Visualization:** <br>
-    - Plotly**:** Interactive data exploration and insight derivation (EDA phase)
-    - Recharts**:** Implementation of responsive, user-facing UI (Production phase)
+    - **Plotly**: Interactive data exploration and insight derivation (EDA phase)
+    - **Recharts**: Implementation of responsive, user-facing UI (Production phase)
 
 ---
 
