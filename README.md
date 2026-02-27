@@ -30,7 +30,7 @@
 **Study & Specialized Skills (Personal Projects)**
 - **Language:** Python (Mainly for Data Analysis & AI Integration)
 - **High-Performance API:** FastAPI (Asynchronous high-performance API for AI model serving)
-- **Data Analytics:** Pandas (Data Preprocessing & EDA)
+- **Data Analytics:** Pandas (Data Preprocessing & EDA), SQL
 - **Visualization:** <br>
     - **Plotly**: Interactive data exploration and insight derivation (EDA phase)
     - **Recharts**: Implementation of responsive, user-facing UI (Production phase)
